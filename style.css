@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  /* Header styling */
+  header {
+    background-color: #35e412;
+    padding: 20px;
+  }
+
+  .header-container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: white;
+  }
+
+  /* Introduction section */
+  .introduction {
+    background-color: #e60d84;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .introduction-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  /* Skills display */
+  .skills {
+    background-color: #0f6be4;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .skills-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .skills li {
+    border: 1px solid #ce07a3;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+
+  /* Contact information */
+  footer {
+    background-color: #0ce69d;
+    padding: 20px;
+    color: white;
+  }
+
+  .contact {
+    max-width: 800px;
+    margin: 0 auto;
+  }
